@@ -1,0 +1,7 @@
+name: Mon Site Back
+type: theme
+description: Mon theme de demonstration Backoffice
+package: MonSite
+core: 8.x
+base theme: seven
+
